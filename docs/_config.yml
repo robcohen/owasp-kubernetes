@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # Site settings
+theme: jekyll-theme-slate
 
 title: OWASP Kubernetes
 description: > # this means to ignore newlines until "baseurl:"
