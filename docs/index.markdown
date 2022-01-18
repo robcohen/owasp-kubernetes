@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hello this is the index
