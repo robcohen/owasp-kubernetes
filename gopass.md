@@ -77,6 +77,17 @@ gopass cheat-sheet : https://woile.github.io/gopass-cheat-sheet/
 
 ---
 
+# Problems
+
+Problems with gopass:
+
+- iOS version doesn't support multiple stores.
+- Might be risky to use a private repo on public github/gitlab
+- Doesn't scale as well as other secret management systems such as HashiCorp Vault
+---
+
 # Questions?
+
+What do you guys use? Any alternatives?
 
 Any questions?
